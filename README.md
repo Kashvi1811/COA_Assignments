@@ -44,7 +44,7 @@ The assignments in this repo focus on key COA areas such as:
 
 ## 👩‍💻 Maintained By
 
-**Kashvi (@Kashvi1811)**
+**Kashvi Soni (@Kashvi1811)**
 
 ---
 
