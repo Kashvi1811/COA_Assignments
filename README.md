@@ -59,7 +59,7 @@ For any usage beyond personal or educational purposes, please contact me beforeh
 
 I’m always open to feedback, ideas, and collaboration opportunities! Feel free to reach out:
 
-* GitHub: @Kashvi1811
+* GitHub: https://github.com/Kashvi1811/
 * LinkedIn: https://www.linkedin.com/in/kashvi-soni-6330a92b2/
 * Email: [kashvisoni2005@gmail.com](mailto:kashvisoni2005@gmail.com)
 
